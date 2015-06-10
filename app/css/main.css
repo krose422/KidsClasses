@@ -1,0 +1,27 @@
+body {
+  background-color: #bccaab; }
+
+.container {
+  width: 70%;
+  margin: auto;
+  padding: 50px; }
+
+.intro {
+  font-size: 3em;
+  text-align: center; }
+
+ul li {
+  list-style: none; }
+
+.content {
+  display: inline-block;
+  float: left;
+  width: 45%;
+  background-color: white;
+  padding: 20px; }
+
+.tags {
+  display: inline-block;
+  float: right;
+  width: 45%;
+  font-size: 1.7em; }
